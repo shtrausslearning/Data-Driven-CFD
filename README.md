@@ -1,6 +1,6 @@
 ### Data-Driven-CFD
 - Fundamentally, the concept of utilising Computational Fluid Dynamics (CFD) data as inputs to Machine Learning Models
-- The aim of such approaches is to help improve <code>efficiency</code> of a process or assist in solving a particular problem, with the help of ML models
+- The aim of such approaches is to help improve <code>efficiency</code> of a process or assist in **solving a particular problem** with the help of ML models (eg. <code>regressors</code>, <code>classifier</code>)
 
 ### ML/CFD literature 
 - A brief insight into ML applications in the field of CFD suggest there are plenty of applications, especially utilising <code>deep learning</code> approaches:
